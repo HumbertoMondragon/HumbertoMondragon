@@ -1,7 +1,7 @@
   # Hi, I'm Humberto 👋
 
 🎓 **Data Science & Mathematics Engineering** student at Tecnológico de Monterrey  
-🎓 **Master in International Management — Data Analytics Track** at Rennes School of Business
+🎓 **Master in Management & Data Analytics** at Rennes School of Business
 
 I'm interested in combining **data science, mathematics, AI, and business** to build data-driven solutions for real-world problems.
 
